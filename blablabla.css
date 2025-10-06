@@ -1,5 +1,6 @@
 /* ===== Kimi no Na wa - Effets Étoiles et Comètes ===== */
-
+.container {
+  background-image: url(https://i.imgur.com/QXewg24.png);}
 /* Étoiles fixes */
 .star {
   display: block;
